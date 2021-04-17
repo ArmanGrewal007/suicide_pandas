@@ -5,7 +5,7 @@ To acces the files:-
 > **Method 1** Copying to your local pc
 1. Open cmd.
 2. Navigate to the desired folder
-3. Run this command `git clone "https://github.com/ArmanGrewal007/suicide-pandas.git"'
+3. Run this command `git clone "https://github.com/ArmanGrewal007/suicide-pandas.git`
 4. Now if you have jupyter-notebook in your local pc, you can run it using that. Otherwise there are various online notebook viewers available
 
 > **Method 2** Running jupyter-notebooks online
